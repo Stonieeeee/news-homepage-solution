@@ -1,5 +1,6 @@
-<div align="center">
 ![News homepage Sample Photo](./design/desktop-design.jpg)
+
+<div align="center">
 
 # Frontend Mentor - News homepage solution
 
@@ -36,8 +37,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 <!-- TBA LINKS -->
 
-- Solution URL: [News homepage solution (HTML + CSS + JavaScript) | Frontend Mentor]()
-- Live Site URL: []()
+- Solution URL: [News homepage solution (HTML + CSS + JavaScript) | Frontend Mentor](https://www.frontendmentor.io/solutions/news-homepage-solution-5lN8mkMA5l)
+- Live Site URL: [https://stonieeeee.github.io/news-homepage-solution/](https://stonieeeee.github.io/news-homepage-solution/)
 
 ## My Process
 
