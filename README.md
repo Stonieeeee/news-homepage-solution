@@ -38,7 +38,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 <!-- TBA LINKS -->
 
 - Solution URL: [News homepage solution (HTML + CSS + JavaScript) | Frontend Mentor](https://www.frontendmentor.io/solutions/news-homepage-solution-5lN8mkMA5l)
-- Live Site URL: [https://stonieeeee.github.io/news-homepage-solution/](https://github.com/Stonieeeee/news-homepage-solution/deployments/github-pages)
+- Live Site URL: [https://stonieeeee.github.io/news-homepage-solution/](https://stonieeeee.github.io/news-homepage-solution/)
 
 ## My Process
 
